@@ -1,5 +1,7 @@
 ## fsearch
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/fsearch.svg)](https://greenkeeper.io/)
+
 搜索当前目录里文件的命令行工具
 
 
